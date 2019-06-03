@@ -1,0 +1,13 @@
+body {
+	font-family: Arial;
+	color: black;
+	font-size: 30px;
+	margin-left: 600px;
+}
+.clr {
+	background-color: red;
+}
+.flex {
+	display: flex;
+}
+.

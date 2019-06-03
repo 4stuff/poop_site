@@ -1,0 +1,97 @@
+.logo {
+	height: 100px;
+	width: 100px;
+	margin-left: 300px;	
+}
+.io {
+	 height: 600px;
+	 width: 600px;
+	 background-color: #f9f6f6;
+	 margin-left: 50px;
+}
+.flex {
+	display: flex;
+	padding-top: 50px;
+}
+.pd {
+	padding-top: 60px;
+}
+.tf {
+	margin-left: 500px;
+    color: white;
+}
+.tf2 {
+	margin-left: 15px;
+}
+button {		
+		background-color: brown;
+    	border-radius: 3px;
+    	padding-top: 10px;
+    	padding-bottom: 10px;
+    	padding-left: 40px;
+    	padding-right: 40px;
+    	border:none;
+   		color: white;
+ }
+ .tf3 {
+ 	margin-left: 35px;
+ }
+ .flex1 {
+ 	display: flex;
+ }
+ .bcgk {
+ 	height: 100px;
+ 	width: 100px;
+ }
+ .gr {
+ 	margin-left: 100px;
+ }
+ a {
+ 		background-color: brown;
+    	border-radius: 3px;
+    	padding-top: 10px;
+    	padding-bottom: 10px;
+    	padding-left: 20px;
+    	padding-right: 20px;
+    	border:none;
+   		color: white;
+   		text-decoration: none;
+ }
+.tf4 {
+	margin-left: 200px;
+}
+a:hover {
+		background-color: orange;
+    	border-radius: 3px;
+    	padding-top: 10px;
+    	padding-bottom: 10px;
+    	padding-left: 20px;
+    	padding-right: 20px;
+    	border:none;
+   		color: white;
+}
+button:hover {
+		background-color: green;
+    	border-radius: 3px;
+    	padding-top: 10px;
+    	padding-bottom: 10px;
+    	padding-left: 40px;
+    	padding-right: 40px;
+    	border:none;
+   		color: white;
+}
+.tf5 {
+	margin-left: 50px;
+}
+.auto {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+}
+.bckg1 {
+	background-image: url(fon1.jpg);
+	background-size: 100% 100%;
+}
+.marg {
+	margin-top: 10px;
+}
